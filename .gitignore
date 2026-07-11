@@ -1,1 +1,15 @@
-.venv
+# Python virtual environment
+.venv/
+
+# (Optional) Other common Python files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+.env
+.vscode/
+.idea/
