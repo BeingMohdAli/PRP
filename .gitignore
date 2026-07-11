@@ -1,5 +1,6 @@
 # Python virtual environment
 .venv/
+.env
 
 # (Optional) Other common Python files
 __pycache__/
