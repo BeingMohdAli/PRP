@@ -1,3 +1,7 @@
+
+
+![Uploading image.png…]()
+
 # 📚 Reading Room — PDF Question Answering with RAG
 
 Ask questions of your PDF documents, powered by a Retrieval-Augmented Generation (RAG) pipeline. Upload a document, and get accurate, source-grounded answers pulled directly from its content.
