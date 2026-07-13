@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+
+<img width="1584" height="862" alt="image" src="https://github.com/user-attachments/assets/0e6a847c-ac44-4aa3-b9d5-3ed3dd8b70f5" />
 
 
 # 📚 Reading Room — PDF Question Answering with RAG
